@@ -3,13 +3,13 @@
 
 @font-face {
   font-family: 'Outfit';
-  src: url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+  src: url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swapp');
   font-weight: 400;
   font-style: "normal";
 }
 @font-face {
   font-family: 'Outfit';
-  src: url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');;
+  src: url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
   font-weight: 700;
   font-style: "normal";
 }
